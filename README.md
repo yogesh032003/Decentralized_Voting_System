@@ -18,8 +18,7 @@ A blockchain-powered voting application built using **Solidity**, **Node.js**, a
 
 ---
 
-## 📁 Project Structure
-|
+## 📁 Project Structure/
 ├── contracts/ # Solidity smart contracts
 ├── migrations/ # Contract deployment scripts
 ├── Database_API/ # Node.js backend for off-chain data
