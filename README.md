@@ -19,19 +19,6 @@ A blockchain-powered voting application built using **Solidity**, **Node.js**, a
 ---
 
 ## 📁 Project Structure
-Decentralized_Voting_System/
-│
-├── contracts/ # Solidity smart contracts
-├── migrations/ # Contract deployment scripts
-├── Database_API/ # Node.js backend for off-chain data
-├── public/ # Frontend static assets
-├── src/ # Frontend source files
-├── .vscode/ # VSCode workspace settings
-├── index.js # Backend entry point
-├── package.json # Dependencies & scripts
-├── truffle-config.js # Truffle configuration
-├── .env # Environment variables (ignored)
-└── .gitignore # Files ignored by Git
 
 
 
