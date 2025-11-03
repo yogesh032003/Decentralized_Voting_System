@@ -1,9 +1,9 @@
 # 🗳️ Decentralized Voting System
 
 A blockchain-powered voting application built using **Solidity**, **Node.js**, and a **web frontend** — designed to create a transparent and tamper-resistant election platform.
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot.png.png)
 
-![App Screenshot](./screenshot1.png)
+![App Screenshot](./Screenshot.png1.png)
 
 
 ---
