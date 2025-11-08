@@ -2,10 +2,10 @@
 
 A blockchain-powered voting application built using **Solidity**, **Node.js**, and a **web frontend** — designed to create a transparent and tamper-resistant election platform.
 
-## User Interface
+## User Interface- Login Page
 ![App Screenshot](./Screenshot.png)
 
-
+## User Interface- Voting Page
 ![App Screenshot](./Screenshot1.png)
 
 
